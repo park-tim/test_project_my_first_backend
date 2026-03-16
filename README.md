@@ -8,4 +8,6 @@ Här kommer jag att beskriva vad jag gör under min utbildning med Colt Steele v
 * JavaScript 
 
 
-### 2026-03-16 - Skapade denna Readme och laddade ned https://emmet.io/download/ i VS. Ett lättare sätt att koda. Endast för HTML. 
+### 2026-03-16 - 
+* Skapade denna Readme och laddade ned https://emmet.io/download/ i VS. Ett     lättare sätt att koda. Endast för HTML. 
+* Tableintroduction - th_td_tr--thead_tbody_tfoot elements
