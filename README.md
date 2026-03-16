@@ -6,3 +6,6 @@ Här kommer jag att beskriva vad jag gör under min utbildning med Colt Steele v
 * HTML
 * CSS
 * JavaScript 
+
+
+### 2026-03-16 - Skapade denna Readme och laddade ned https://emmet.io/download/ i VS. Ett lättare sätt att koda. Dock för HTML. 
