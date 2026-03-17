@@ -8,7 +8,10 @@ Här kommer jag att beskriva vad jag gör under min utbildning med Colt Steele v
 * JavaScript 
 
 
-### 2026-03-16 - 
+### 2026-03-16  
 * Skapade denna Readme och laddade ned https://emmet.io/download/ i VS. Ett     lättare sätt att koda. Endast för HTML. -- Will be writing in english from now on. 
 * Tableintroduction - th_td_tr--thead_tbody_tfoot elements. Also rowspan_colspan to seperate the headers in the heaviest bird element and to organize the column and rowspan. 
 * Form element -- Input types_labels
+
+### 2026-03-17
+* HTML buttons, name attributes, Hijacking reddit_google_youtube Search
