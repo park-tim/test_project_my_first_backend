@@ -91,6 +91,25 @@
         </p>
         <button>Submit</button>
 
+        <h2>Validation Demo</h2>
+        <form action="/dummy">
+            <label for="first">Enter your first name</label>
+            <!--Before submitting you can use the required attribute. This ensures the field is not left empty -->
+            <input type="text" name="first" id="first" required>
+            <p>
+                <label for="username">Username</label>
+                <input type="text" name="username" id="username" minlength="5" maxlength="20" required>
+            </p>
+            <p>
+
+                <input type="email" required>
+            </p>
+
+
+            <button>Submit</button>
+        </form>
+
+
 
     </form>
 
