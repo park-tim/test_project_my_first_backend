@@ -17,3 +17,6 @@ Här kommer jag att beskriva vad jag gör under min utbildning med Colt Steele v
 * HTML buttons, name attributes, 
 * Hijacking reddit_google_youtube Search
 * Radio buttons, checkboxes and selects
+
+### 2026-03-18
+* Range and text areas

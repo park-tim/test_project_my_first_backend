@@ -28,7 +28,7 @@
         </p>
         <p>
             <label for="number">Enter a number</label>
-            <input id="number" type="number" placeholder="enter a number" name="num">
+            <input id="number" type="number" placeholder="enter a number" name="num" min="1" max="1000">
         </p>
         <button>Submit!!!</button>
         <button type="button">PLEASE DON'T SUBMIT THIS FORM</button>
@@ -68,13 +68,29 @@
             <label for="m">M</label>
             <input type="radio" name="size" id="m" value="m">
         </p>
-        <label for="meal">Please select an entry</label>
-        <select name="meal" id="meal">
-            <option value="fish">Fish</option>
-            <option value="chicken">Chicken</option>
-            <option value="beef">Beef</option>
-        </select>
+        <p>
+            <label for="meal">Please select an entry</label>
+            <select name="meal" id="meal">
+                <option value="fish">Fish</option>
+                <option value="chicken">Chicken</option>
+                <option value="beef">Beef</option>
+            </select>
+        </p>
+        <p>
+            <label for="cheese">Amount of cheese</label>
+            <input type="range" id="cheese" name="cheese_level" value="75" min="1" max="100">
+
+
+        </p>
+
+        <p>
+            <label for="requests">Any special requests?</label>
+            <br>
+            <textarea id="requests" rows="5" cols="40" name="Requests" placeholder="Type something here"></textarea>
+
+        </p>
         <button>Submit</button>
+
 
     </form>
 
