@@ -21,3 +21,4 @@ Här kommer jag att beskriva vad jag gör under min utbildning med Colt Steele v
 ### 2026-03-18
 * Range and text areas
 * Form validations and the use of the "required" attribute. This ensures that the field cannot be left empty. 
+* Create a marathon form including radio buttons, required fields etc. not finished. 
