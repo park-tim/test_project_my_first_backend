@@ -1,5 +1,5 @@
 h2 {
-    color: teal;
+    color: #5FCFFC;
     background-color: rgb(255, 200, 200);
 }
 
@@ -10,6 +10,13 @@ button {
 
 p {
     color: olive;
+    background-color: rgb(255, 200, 200);
+}
 
 
+/* F, hexadecimal =
+15 */
+
+body {
+    background-color: #CC55EE;
 }
