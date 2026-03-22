@@ -29,3 +29,4 @@ Här kommer jag att beskriva vad jag gör under min utbildning med Colt Steele v
 * Created a stylsheet in CSS and linked it togheter with the "index.html" and tolt the h2 to be indigo in the app.css. 
 * Goof around with colors and backgrounds and how to use the RGB and the specific codes to create colors. ex 255 -red,200-green, 200 blue. This creates a pink-ish color for our, in this case, header. H2. 
 * Hexadecimals. # ffff00 first to ff - red then ff-green and 00 blue
+* Common text properties
