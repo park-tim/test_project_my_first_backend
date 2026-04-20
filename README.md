@@ -34,3 +34,6 @@ Här kommer jag att beskriva vad jag gör under min utbildning med Colt Steele v
 ### 2026-03-22
 * Fonts family, font size and so on. End of font family ! 
 
+### 2026-04-20
+* Reference; Test_project 05_CSS_Selectors
+* CSS Selectors as: Button-ID selector, eg to identify a button that we want to change background color. Not every button, just the "Signup".  
